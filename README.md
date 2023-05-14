@@ -1,6 +1,4 @@
-# [nickoates.com](https://nickoates.com)
-
-This is my personal website and blog, built with Next.js, Tailwind CSS, and Contentlayer. For more information on the tech stack, see [my blog post](https://nickoates.com/blog/rebuilding-my-website)
+# NadyChea
 
 ## License
 
