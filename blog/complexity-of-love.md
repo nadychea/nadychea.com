@@ -1,7 +1,7 @@
 ---
-title: Exploring the Complexity of Love: Yearning, Associations, and Emotional Patterns
-date: 2023-05-14 18:00:00 -07:00
-summary: Unraveling the Intricacies of Love: Seeking Familiarity, Overcoming Associations, and Redefining Emotional Patterns
+title: Exploring the Complexity of Love - Yearning, Associations, and Emotional Patterns
+date: 2023-05-14
+summary: Unraveling the Intricacies of Love - Seeking Familiarity, Overcoming Associations, and Redefining Emotional Patterns
 cover: /images/blog/pattern.png
 coverAlt: An abstract grid of spheres rising and falling into a grid of circular holes beneath.
 ---
