@@ -34,7 +34,7 @@ export default function Home({ posts }) {
 						height={300}
 					/>
 				<p>
-				<S>Hello! I&apos;m Nadi</S>
+				<S>Hello! I&apos;m Nady</S>
 				</p>
 				<p>
 					I am the Head of Operations at the Cambodia Coaching Institute, where I also serve as a Facilitator and Associate Coach. Being a proud graduate of the inaugural cohort of the Cambodia Coaching Institute, I hold the distinction of being the youngest professionally trained coach in Cambodia. I strictly adhere to the code of ethics and competencies set by the <S>International Coach Federation (ICF)</S>.
